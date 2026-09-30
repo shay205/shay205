@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Sheila
 
-💻 **Developer | Web Development • AI • Cybersecurity 🔐**
+ **Developer | Web Development • AI • Cybersecurity **
 
 I enjoy turning ideas into code and building websites, applications, and creative digital projects.
 
 ## 🛠️ Tech Stack
 
-🐍 Python · ⚡ JavaScript · ☕ Java · 🎨 HTML · 🎨 CSS · 💾 C++
+ Python ·  JavaScript ·  Java ·  HTML ·  CSS ·  C++
 
-🌐 Django · ⚛️ React · 🟢 Node.js · 🚀 Vite
+ Django ·  React ·  Node.js ·  Vite
 
-🐬 MySQL · 💾 SQL
+ MySQL ·  SQL
 
-🛡️ Cybersecurity · 🤖 Artificial Intelligence
+ Cybersecurity · Artificial Intelligence
 
-🐙 Git · GitHub · 💻 VS Code · 🌐 Netlify · ☁️ Render
+ Git · GitHub ·  VS Code · Netlify ·  Render
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shay205&show_icons=true&theme=tokyonight)
 
