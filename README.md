@@ -1,31 +1,29 @@
-# 👩‍💻 Sheila Chepkorir
-
 <div align="center">
+  <h1>Sheila Chepkorir</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7dd3fc&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Frontend+Developer;Backend+Developer;Django+Developer;Exploring+AI+and+Cybersecurity" alt="Typing SVG" />
+  <p>
+    <strong>Software Developer · Frontend · Backend · Database · AI · Cybersecurity</strong>
+  </p>
 </div>
 
 <div align="center">
   <a href="https://sheil.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/shay205" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-shay205-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </div>
 
-<p align="center">
-  <strong>Web Development • Backend • Frontend • AI • Cybersecurity • Database Development</strong>
-</p>
-
----
+<hr>
 
 ## About Me
 
-I am building my software engineering skills through practical projects, continuous learning, and problem-solving. My interests include frontend development, backend development, databases, artificial intelligence, and cybersecurity, and I enjoy creating software that is useful, thoughtful, and impactful.
+I am developing my software engineering skills by building practical projects, learning continuously, and solving real problems through code. My interests include frontend development, backend development, databases, artificial intelligence, and cybersecurity.
 
-I am passionate about learning new technologies, improving my craft, and turning ideas into working digital solutions.
+I enjoy creating useful software, improving my technical foundations, and turning ideas into functional digital products.
 
----
+<hr>
 
 ## Tech Stack
 
@@ -43,26 +41,42 @@ I am passionate about learning new technologies, improving my craft, and turning
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="Database tools" />
-
-<img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL-Database%20Queries-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 
 ### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
 
----
+<hr>
 
 ## Featured Projects
 
-| Project | Description | Links |
-| --- | --- | --- |
-| [Hospital-management](https://github.com/shay205/Hospital-management) | A Python-based hospital management project focused on streamlining healthcare workflows and administrative tasks. | [Repo](https://github.com/shay205/Hospital-management) |
-| [sheila-portfolio](https://github.com/shay205/sheila-portfolio) | Personal portfolio project designed to present projects, skills, and creative work in a clean and modern layout. | [Repo](https://github.com/shay205/sheila-portfolio) |
-| [cosmetic-shop](https://github.com/shay205/cosmetic-shop) | A Django-powered cosmetics e-commerce website with product listings, shopping flow, and online sales features. | [Repo](https://github.com/shay205/cosmetic-shop) |
-| [dream-look-game](https://github.com/shay205/dream-look-game) | An interactive game project built with web technologies, focused on creating an engaging user experience. | [Repo](https://github.com/shay205/dream-look-game) • [Live Demo](https://dream-look-game.netlify.app/) |
+<table>
+  <tr>
+    <td width="50%">
+      <strong><a href="https://github.com/shay205/Hospital-management">Hospital-management</a></strong><br>
+      A Python-based hospital management project focused on healthcare workflows and administrative operations.
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/shay205/cosmetic-shop">cosmetic-shop</a></strong><br>
+      A Django-powered cosmetics e-commerce website with product listings and online shopping functionality.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong><a href="https://github.com/shay205/sheila-portfolio">sheila-portfolio</a></strong><br>
+      A personal portfolio project designed to present projects, skills, and creative work in a modern layout.
+    </td>
+    <td width="50%">
+      <strong><a href="https://github.com/shay205/dream-look-game">dream-look-game</a></strong><br>
+      An interactive web game project focused on creating an engaging and playful user experience.<br>
+      <a href="https://dream-look-game.netlify.app/">Live demo</a>
+    </td>
+  </tr>
+</table>
 
----
+<hr>
 
 ## GitHub Contribution Streak
 
@@ -70,7 +84,7 @@ I am passionate about learning new technologies, improving my craft, and turning
   <img src="https://streak-stats.demolab.com/?user=shay205&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
----
+<hr>
 
 ## GitHub Statistics
 
@@ -83,27 +97,25 @@ I am passionate about learning new technologies, improving my craft, and turning
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shay205&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </div>
 
----
+<hr>
 
 ## Current Focus
 
-I am currently focused on:
-
 - Building web applications with Django
-- Improving my frontend development skills
-- Working with databases and data-driven application design
-- Developing practical software projects that solve real problems
-- Exploring artificial intelligence and cybersecurity concepts
+- Improving frontend development skills
+- Working with databases and application data design
+- Developing practical software projects
+- Exploring AI and cybersecurity concepts
 
----
+<hr>
 
-## Connect With Me
+## Connect
 
-- GitHub: [@shay205](https://github.com/shay205)
-- Portfolio: [sheil.netlify.app](https://sheil.netlify.app)
+- GitHub: <a href="https://github.com/shay205">@shay205</a>
+- Portfolio: <a href="https://sheil.netlify.app">sheil.netlify.app</a>
 
----
+<hr>
 
 <p align="center">
-  <i>Building, learning, and creating meaningful software one step at a time.</i>
+  <i>Building, learning, and creating meaningful software one project at a time.</i>
 </p>
