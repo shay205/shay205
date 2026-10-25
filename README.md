@@ -4,7 +4,7 @@
 
 I enjoy turning ideas into code and building websites, applications, and creative digital projects.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
  Python ·  JavaScript ·  Java ·  HTML ·  CSS ·  C++
 
